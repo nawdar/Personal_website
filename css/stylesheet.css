@@ -65,3 +65,19 @@ text-align: center;
 list-style: none;
 
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  }
+
+.header1 {
+
+  background-color: rgb(166, 202, 212);
+}
+
+.h2_item {
+  text-align: center;
+  background-color: rgb(166, 202, 212);
+
+}

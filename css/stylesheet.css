@@ -69,7 +69,7 @@ list-style: none;
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: }
+  }
 .header1 {
   grid-column: 1 / 4;
   grid-row: 1/2;
